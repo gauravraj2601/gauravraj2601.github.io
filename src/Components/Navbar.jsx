@@ -8,8 +8,7 @@ const Navbar = () => {
   const { isOpen, onToggle, onClose } = useDisclosure();
 
   const handleClick = () => {
-    window.open(
-      "https://drive.google.com/file/d/1j5s8FwLjUArCd92-9U-YLZTZltfbFxr4/view?usp=sharing"
+    window.open("https://drive.google.com/file/d/1HWk9lsQTSVQcGmPv4nv9MFnqO-wsRBNS/view?usp=sharing"
     );
     onClose();
   };

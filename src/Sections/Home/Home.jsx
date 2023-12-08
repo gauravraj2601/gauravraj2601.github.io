@@ -9,8 +9,7 @@ import Gaurav_Raj_Resume from "../../Components/Downloads/Gaurav_Raj_Resume.pdf"
 
 const Home = () => {
   const handleClick = () => {
-    const url =
-      "https://drive.google.com/file/d/13AYV6f_IcsI3InjQzoSfpw2v59Zwb9n5/view?usp=sharing";
+    const url ="https://drive.google.com/file/d/1HWk9lsQTSVQcGmPv4nv9MFnqO-wsRBNS/view?usp=sharing";
     const link = document.createElement("a");
     link.href = url;
     link.download = "Gaurav_Raj_Resume.pdf";

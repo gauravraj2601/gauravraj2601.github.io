@@ -11,7 +11,7 @@ const About = () => {
       <div id='details'>
         <p>An Enthusiastic Web Developer, skilled in front-end Web Development. Knowlwdge of Core React,Javascript, HTML CSS, express, and MongoDB. Aims to leverage knowledge and build world-class websites while facilitating organization in achieving functional goals.</p>
         <div id='profile-pic'>
-        <img src={Gaurav_Raj_Profile_Pic} alt="Shreshth Kumar"/>
+        <img src={Gaurav_Raj_Profile_Pic} alt="Gaurav Raj"/>
         </div>
       </div>
     </div>
