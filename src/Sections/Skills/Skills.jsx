@@ -41,6 +41,16 @@ const Tech_skills = [
       skill: "MongoDb",
       img: "https://img.icons8.com/color/256/mongodb.png",
     },
+    {
+      id:12,
+      skill:"Tailwind",
+      img:"https://img.icons8.com/color/256/tailwindcss.png"
+    },
+    {
+      id:13,
+      skill:"Exploring Tech",
+      img:"https://img.icons8.com/256/add.png"
+    }
   ];
 
 const Skills = () => {
