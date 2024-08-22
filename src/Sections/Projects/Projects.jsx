@@ -5,24 +5,10 @@ import { SiNetlify } from "react-icons/si";
 import INR from "./Images/INR Club.png";
 
 const Projects = () => {
-  const styleDem = () => {
-    window.open("https://genuine-mousse-0f20e2.netlify.app/");
-  };
-
-  const styleGit = () => {
-    window.open("https://github.com/shreshthkr/polite-design-6184");
-  };
-
-  const expGit = () => {
-    window.open("https://github.com/Shubham-Dandekar/expedia.com-clone");
-  };
-
-  const expDem = () => {
-    window.open("https://clone-expedia.netlify.app/");
-  };
+ 
 
   const INRGit = () => {
-    window.open("https://github.com/shivendra-somr/INRClub");
+    window.open("https://github.com/gauravraj2601/INR-Club");
   };
   const INRDep = () => {
     window.open("https://inrclub.netlify.app/");
