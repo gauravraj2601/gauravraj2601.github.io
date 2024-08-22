@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.984d1a10.css",
-    "main.js": "/static/js/main.73b82e24.js",
+    "main.js": "/static/js/main.db77255b.js",
     "static/js/787.8ff3b38c.chunk.js": "/static/js/787.8ff3b38c.chunk.js",
     "static/media/Gaurav_Raj_Resume.pdf": "/static/media/Gaurav_Raj_Resume.c4a5510134aad8623552.pdf",
     "static/media/Gaurav_Raj_Profile_Pic.png": "/static/media/Gaurav_Raj_Profile_Pic.0bd8e593e12d7a6df14d.png",
     "static/media/INR Club.png": "/static/media/INR Club.243b2c2717749fc0981e.png",
     "index.html": "/index.html",
     "main.984d1a10.css.map": "/static/css/main.984d1a10.css.map",
-    "main.73b82e24.js.map": "/static/js/main.73b82e24.js.map",
+    "main.db77255b.js.map": "/static/js/main.db77255b.js.map",
     "787.8ff3b38c.chunk.js.map": "/static/js/787.8ff3b38c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.984d1a10.css",
-    "static/js/main.73b82e24.js"
+    "static/js/main.db77255b.js"
   ]
 }
