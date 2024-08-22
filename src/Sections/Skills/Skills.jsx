@@ -34,7 +34,7 @@ const Tech_skills = [
     {
       id: 10,
       skill: "ExpressJs",
-      img: "https://www.orafox.com/wp-content/uploads/2019/01/expressjs.png",
+      img: "https://img.icons8.com/color/256/express.png",
     },
     {
       id: 11,
